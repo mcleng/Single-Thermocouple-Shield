@@ -48,6 +48,10 @@ Board Specs
 Versions
 --------
 
+###v2.1.1
+* Removed routing of status led through level shifter
+* PCB Production dates: 01-2012
+
 ###v2.1
 
 Initial release of a dedicated single channel board. The design follows the quad channel board. Other changes included:
@@ -61,7 +65,7 @@ Initial release of a dedicated single channel board. The design follows the quad
 * Added Arduino reset switch
 * Added secondary set of headers to breakout Arduino pins along sides of the shield
 * Updated prototyping holes to fall on same 0.1" grid as Arduino headers
-* PCB Production dates: 09-2011, 01-2012
+* PCB Production dates: 09-2011
 
 ####Board Specs
 * Dimensions: Arduino Shield
@@ -80,4 +84,4 @@ Purchase
 TODO
 ----
 
-*	Do not route LED through level shifter
+

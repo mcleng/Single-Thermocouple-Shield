@@ -7863,28 +7863,16 @@ http://www.ladyada.net/library/pcb/eaglelibrary.html</description>
 <pinref part="JP3" gate="A" pin="6"/>
 </segment>
 </net>
-<net name="STATUS" class="0">
+<net name="_STATUS" class="0">
 <segment>
-<wire x1="127" y1="27.94" x2="121.92" y2="27.94" width="0.1524" layer="91"/>
-<label x="116.84" y="27.94" size="1.778" layer="95"/>
-<pinref part="U1" gate="G$1" pin="A4"/>
+<wire x1="205.74" y1="38.1" x2="198.12" y2="38.1" width="0.1524" layer="91"/>
+<label x="198.12" y="38.1" size="1.778" layer="95"/>
+<pinref part="SJ4" gate="1" pin="1"/>
 </segment>
 <segment>
 <wire x1="215.9" y1="137.16" x2="215.9" y2="142.24" width="0.1524" layer="91"/>
 <label x="213.36" y="142.24" size="1.778" layer="95"/>
 <pinref part="D1" gate="G$1" pin="A"/>
-</segment>
-</net>
-<net name="_STATUS" class="0">
-<segment>
-<wire x1="157.48" y1="27.94" x2="165.1" y2="27.94" width="0.1524" layer="91"/>
-<label x="165.1" y="27.94" size="1.778" layer="95"/>
-<pinref part="U1" gate="G$1" pin="B4"/>
-</segment>
-<segment>
-<wire x1="205.74" y1="38.1" x2="198.12" y2="38.1" width="0.1524" layer="91"/>
-<label x="198.12" y="38.1" size="1.778" layer="95"/>
-<pinref part="SJ4" gate="1" pin="1"/>
 </segment>
 </net>
 <net name="CS" class="0">

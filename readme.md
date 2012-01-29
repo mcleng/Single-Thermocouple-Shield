@@ -53,7 +53,7 @@ Versions
 Initial release of a dedicated single channel board. The design follows the quad channel board. Other changes included:
 
 * Initial release under Eagle 6.1 on Github
-* Change to [[MAX31855]] chip
+* Change to MAX31855 chip
 * Reduction to a single thermocouple channel
 * Addition of prototyping space on all free areas of the shield
 * Change solder jumpers to be normally-closed, however trace is easily cutable
@@ -61,6 +61,7 @@ Initial release of a dedicated single channel board. The design follows the quad
 * Added Arduino reset switch
 * Added secondary set of headers to breakout Arduino pins along sides of the shield
 * Updated prototyping holes to fall on same 0.1" grid as Arduino headers
+* PCB Production dates: 09-2011, 01-2012
 
 ####Board Specs
 * Dimensions: Arduino Shield

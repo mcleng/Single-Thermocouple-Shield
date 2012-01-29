@@ -149,7 +149,7 @@
 <wire x1="20.32" y1="46.99" x2="20.32" y2="42.164" width="0.127" layer="25"/>
 <wire x1="20.32" y1="42.164" x2="10.16" y2="42.164" width="0.127" layer="25"/>
 <wire x1="10.16" y1="42.164" x2="10.16" y2="46.99" width="0.127" layer="25"/>
-<text x="46.863" y="17.526" size="1.016" layer="21" rot="SR90">09-2011</text>
+<text x="46.863" y="17.526" size="1.016" layer="21" rot="SR90">01-2012</text>
 <text x="50.419" y="17.018" size="1.27" layer="21" rot="SR90">Thermocouple</text>
 <text x="14.351" y="44.704" size="1.016" layer="25" font="vector" rot="R225">CS</text>
 <text x="11.938" y="44.704" size="1.016" layer="25" font="vector" rot="R225">SO</text>
